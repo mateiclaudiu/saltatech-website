@@ -18,7 +18,7 @@ const config: GatsbyConfig = {
   }, "gatsby-plugin-image", "gatsby-plugin-sharp", "gatsby-transformer-sharp", "gatsby-plugin-styled-components", {
     resolve: 'gatsby-plugin-google-analytics',
     options: {
-      "trackingId": ""
+      "trackingId": "todo"
     }
   }, "gatsby-plugin-sitemap", {
     resolve: 'gatsby-plugin-manifest',
